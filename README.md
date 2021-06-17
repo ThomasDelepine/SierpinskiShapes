@@ -1,4 +1,4 @@
-# **SierPinski Shapes**
+# **Sierpinski Shapes**
 
 
 A simple generation of the Sierpinski Triangle, with parametres.
